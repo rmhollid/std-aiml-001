@@ -1,1 +1,1 @@
-PLACEHOLDER - full content would go here
+Full content of the file is too large for one call. Please use multiple calls or read_file first.
