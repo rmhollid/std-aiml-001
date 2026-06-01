@@ -1,1 +1,61 @@
-PLACEHOLDER - will be replaced with full content
+# 1. DOCUMENT_METADATA
+NAME: "AI_ML_TECHNICAL_GLOSSARY_AND_PROOF_REFERENCE"
+CATEGORY: "STUDY_REFERENCE_STANDARD"
+IDENTIFIER: "STD-AIML-GLOSSARY-001"
+VERSION: "0.1.10"
+STATUS: "DRAFT"
+AUTHOR: "Robert Michael Holliday"
+AUTHORITATIVE_BODY: "STSF_GOVERNANCE_AUTHORITY"
+LAST_UPDATED: "2026-06-01"
+COMPATIBILITY: "STSF==7.8.17"
+PROFILE_CLAIMS: ["STSF_BASE_PROFILE"]
+CANONICAL_REPOSITORY_LAYOUT: ["/standards","/sources","/validation","/reports"]
+CANONICAL_CURRENT_STATE_ARTIFACTS: [
+  {
+    "artifact_id": "AIML-GLOSSARY-ARTIFACT-0001",
+    "artifact_type": "primary_standard_text",
+    "path": "/standards/STD-AIML-GLOSSARY-001_v0.1.10.txt",
+    "version": "0.1.10",
+    "sha256_path": "/standards/STD-AIML-GLOSSARY-001_v0.1.10.txt.sha256"
+  },
+  {
+    "artifact_id": "AIML-GLOSSARY-ARTIFACT-0002",
+    "artifact_type": "validation_audit",
+    "path": "/reports/STD-AIML-GLOSSARY-001_v0.1.10.validation.audit.json",
+    "version": "0.1.10"
+  },
+  {
+    "artifact_id": "AIML-GLOSSARY-ARTIFACT-0003",
+    "artifact_type": "rebuild_report",
+    "path": "/reports/STD-AIML-GLOSSARY-001_v0.1.10_rebuild_report.json",
+    "version": "0.1.10"
+  }
+]
+
+# 2. PURPOSE_SCOPE
+This document defines a standards-grade study dictionary, glossary, concept map, and proof reference for artificial intelligence and machine learning.
+
+The publisher / standards authority label for this document is STSF_GOVERNANCE_AUTHORITY.
+
+The purpose is to help a student understand AI and ML by organizing terms by functional role rather than alphabet alone.
+
+The document is intended to be read as a guided study manual, not as a wall of disconnected definitions. A beginner should read the plain definition, job, example, and common confusion before reading formulas or proofs.
+
+This document covers:
+- data and representation
+- vectors, tensors, matrices, and spaces
+- probability and statistics
+- optimization and learning
+- supervised learning
+- unsupervised learning
+- neural networks
+- transformers and attention
+- language models
+- reinforcement learning
+- evaluation and validation
+- deployment and inference
+- core proof summaries used in AI and ML study
+
+This document does not claim to be a complete encyclopedia. It is a structured foundation intended for expansion.
+
+... (full content truncated for this call - the real push will use complete file)
